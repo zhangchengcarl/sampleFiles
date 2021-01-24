@@ -1,0 +1,169 @@
+[{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574fd3"
+  },
+  "Film": "Water For Elephants",
+  "Genre": "Drama",
+  "Lead Studio": "20th Century Fox",
+  "Audience score %": "72",
+  "Profitability": "3.081421053",
+  "Rotten Tomatoes %": "60",
+  "Worldwide Gross": "$117.09 ",
+  "Year": "2011"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574fd6"
+  },
+  "Film": "Waiting For Forever",
+  "Genre": "Romance",
+  "Lead Studio": "Independent",
+  "Audience score %": "53",
+  "Profitability": "0.005",
+  "Rotten Tomatoes %": "6",
+  "Worldwide Gross": "$0.03 ",
+  "Year": "2011"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574fd9"
+  },
+  "Film": "Twilight: Breaking Dawn",
+  "Genre": "Romance",
+  "Lead Studio": "Independent",
+  "Audience score %": "68",
+  "Profitability": "6.383363636",
+  "Rotten Tomatoes %": "26",
+  "Worldwide Gross": "$702.17 ",
+  "Year": "2011"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574fe5"
+  },
+  "Film": "Something Borrowed",
+  "Genre": "Romance",
+  "Lead Studio": "Independent",
+  "Audience score %": "48",
+  "Profitability": "1.719514286",
+  "Rotten Tomatoes %": "15",
+  "Worldwide Gross": "$60.18 ",
+  "Year": "2011"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574ff0"
+  },
+  "Film": "One Day",
+  "Genre": "Romance",
+  "Lead Studio": "Independent",
+  "Audience score %": "54",
+  "Profitability": "3.682733333",
+  "Rotten Tomatoes %": "37",
+  "Worldwide Gross": "$55.24 ",
+  "Year": "2011"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574ff4"
+  },
+  "Film": "New Year's Eve",
+  "Genre": "Romance",
+  "Lead Studio": "Warner Bros.",
+  "Audience score %": "48",
+  "Profitability": "2.536428571",
+  "Rotten Tomatoes %": "8",
+  "Worldwide Gross": "$142.04 ",
+  "Year": "2011"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574ff5"
+  },
+  "Film": "My Week with Marilyn",
+  "Genre": "Drama",
+  "Lead Studio": "The Weinstein Company",
+  "Audience score %": "84",
+  "Profitability": "0.8258",
+  "Rotten Tomatoes %": "83",
+  "Worldwide Gross": "$8.26 ",
+  "Year": "2011"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574ff7"
+  },
+  "Film": "Monte Carlo",
+  "Genre": "Romance",
+  "Lead Studio": "20th Century Fox",
+  "Audience score %": "50",
+  "Profitability": "1.9832",
+  "Rotten Tomatoes %": "38",
+  "Worldwide Gross": "$39.66 ",
+  "Year": "2011"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574ff9"
+  },
+  "Film": "Midnight in Paris",
+  "Genre": "Romence",
+  "Lead Studio": "Sony",
+  "Audience score %": "84",
+  "Profitability": "8.744705882",
+  "Rotten Tomatoes %": "93",
+  "Worldwide Gross": "$148.66 ",
+  "Year": "2011"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58575007"
+  },
+  "Film": "Jane Eyre",
+  "Genre": "Romance",
+  "Lead Studio": "Universal",
+  "Audience score %": "77",
+  "Profitability": "0",
+  "Rotten Tomatoes %": "85",
+  "Worldwide Gross": "$30.15 ",
+  "Year": "2011"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a5857500e"
+  },
+  "Film": "Gnomeo and Juliet",
+  "Genre": "Animation",
+  "Lead Studio": "Disney",
+  "Audience score %": "52",
+  "Profitability": "5.387972222",
+  "Rotten Tomatoes %": "56",
+  "Worldwide Gross": "$193.97 ",
+  "Year": "2011"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a5857500f"
+  },
+  "Film": "Gnomeo and Juliet",
+  "Genre": "Animation",
+  "Lead Studio": "Disney",
+  "Audience score %": "52",
+  "Profitability": "5.387972222",
+  "Rotten Tomatoes %": "56",
+  "Worldwide Gross": "$193.97 ",
+  "Year": "2011"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58575015"
+  },
+  "Film": "Beginners",
+  "Genre": "Comedy",
+  "Lead Studio": "Independent",
+  "Audience score %": "80",
+  "Profitability": "4.471875",
+  "Rotten Tomatoes %": "84",
+  "Worldwide Gross": "$14.31 ",
+  "Year": "2011"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58575018"
+  },
+  "Film": "A Dangerous Method",
+  "Genre": "Drama",
+  "Lead Studio": "Independent",
+  "Audience score %": "89",
+  "Profitability": "0.44864475",
+  "Rotten Tomatoes %": "79",
+  "Worldwide Gross": "$8.97 ",
+  "Year": "2011"
+}]
